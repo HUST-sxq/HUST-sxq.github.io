@@ -15,8 +15,7 @@ My research focuses on Vision-Language-Action (VLA), including model architectur
 ======
 - [Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) ![GitHub stars](https://img.shields.io/github/stars/Songwxuan/Embodied-AI-Paper-TopConf?style=social): We collect published papers in the field of embodied intelligence.
 
-- [LLaVA-VLA](https://github.com/OpenHelix-Team/LLaVA-VLA) ![GitHub stars](https://img.shields.io/github/stars/OpenHelix-Team/LLaVA-VLA?style=social): We propose a simple yet effective Vision-Language-Action model built upon the popular open-source VLM LLaVA.
-
+- [LLaVA-VLA](https://github.com/OpenHelix-Team/LLaVA-VLA) ![GitHub stars](https://img.shields.io/github/stars/OpenHelix-Team/LLaVA-VLA?style=social): We propose a simple yet effective Vision-Language-Action model.
 📖 Educations
 ======
 - ### *2024.09 - present, Huazhong University of Science and Technology*
