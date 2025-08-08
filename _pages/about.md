@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Xiaoquan Sun. Currently, I am pursuing a master’s degree at Huazhong University of Science and Technology. Previously, I obtained my bachelor’s degree from Central South University in 2024. Looking ahead, I am excited to pursue a doctoral degree in the upcoming fall of 2027. I was a visiting student at IRPN Lab, Hong Kong University of Science and Technology (HKUST) University, supervised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). I keep a close connection with [Wenxuan Song](https://songwxuan.github.io/) from then on, who have been teaching me a lot. 
+I am Xiaoquan Sun(孙小权 in Chinese). Currently, I am pursuing a master’s degree at Huazhong University of Science and Technology. Previously, I obtained my bachelor’s degree from Central South University in 2024. Looking ahead, I am excited to pursue a doctoral degree in the upcoming fall of 2027. I was a visiting student at IRPN Lab, Hong Kong University of Science and Technology (HKUST) University, supervised by [Haoang Li](https://sites.google.com/view/haoangli/homepage). I keep a close connection with [Wenxuan Song](https://songwxuan.github.io/) from then on, who have been teaching me a lot. 
+
+My research focuses on Vision-Language-Action (VLA), including model architecture design and VLA acceleration.
 
 🔥 Project
 ======
@@ -22,7 +24,7 @@ School of Artificial Intelligence and Automation
   ***M.S.*** in Control Science and Engineering.
 - ### *2020.09 - 2024.06, Central South University*
 -  School of Automation
-  ***B.S.*** Intelligent Science & Technology &nbsp;&nbsp;&nbsp; 
+  ***B.S.*** Intelligent Science & Technology. &nbsp;&nbsp;&nbsp; 
 
  📝 Selected Publications 
 ------
